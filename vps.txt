@@ -1,1 +1,1 @@
-http://nokos.otp-azka.my.id:2196
+https://nokos.otp-azka.my.id:2196
